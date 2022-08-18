@@ -1,0 +1,45 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Russian\n"
+"Language: ru_RU\n"
+"Plural-Forms: nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && n%10 <=9)) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: ru\n"
+"X-Crowdin-File: /release-4.15.1/addons/user_info.po\n"
+"X-Crowdin-File-ID: 6678\n"
+"PO-Revision-Date: 2022-08-18 08:00\n"
+
+msgctxt "Addons::name::user_info"
+msgid "User information"
+msgstr "Информация о пользователе"
+
+msgctxt "Addons::description::user_info"
+msgid "Allows you to display your profile details on the main backend page."
+msgstr "Позволяет вам вывести свои данные из профиля на главной странице бекенда."
+
+msgctxt "Languages::user_info.company"
+msgid "Company"
+msgstr "Компания"
+
+msgctxt "Languages::user_info.firstname"
+msgid "Firstname"
+msgstr "Имя"
+
+msgctxt "Languages::user_info.lastname"
+msgid "Lastname"
+msgstr "Фамилия"
+
+msgctxt "Languages::user_info.phone"
+msgid "Phone"
+msgstr "Телефон"
+
+msgctxt "Languages::user_info.user_data"
+msgid "User data"
+msgstr "Данные пользователя"
+
+msgctxt "Languages::user_info.error"
+msgid "Error, unable to get user data from database."
+msgstr "Ошибка, не удалось получить данные пользователя, из базы данных."

@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<addon scheme="3.0">
+    <id>user_info</id>
+    <version>1.0</version>
+    <priority>4300</priority>
+    <position>0</position>
+    <status>active</status>
+    <default_language>ru</default_language>
+    <authors>
+        <author>
+            <name>Finleo</name>
+        </author>
+    </authors>
+    <language_variables>
+        <item lang="en" id="user_info.user_data">User data</item>
+        <item lang="ru" id="user_info.user_data">Данные пользователя</item>
+        <item lang="en" id="user_info.error">Error, unable to get user data from database.</item>
+        <item lang="ru" id="user_info.error">Ошибка, не удалось получить данные пользователя, из базы данных.</item>
+    </language_variables>
+</addon>
