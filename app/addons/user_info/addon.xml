@@ -11,10 +11,4 @@
             <name>Finleo</name>
         </author>
     </authors>
-    <language_variables>
-        <item lang="en" id="user_info.user_data">User data</item>
-        <item lang="ru" id="user_info.user_data">Данные пользователя</item>
-        <item lang="en" id="user_info.error">Error, unable to get user data from database.</item>
-        <item lang="ru" id="user_info.error">Ошибка, не удалось получить данные пользователя, из базы данных.</item>
-    </language_variables>
 </addon>
